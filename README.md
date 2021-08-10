@@ -12,25 +12,13 @@ description: 欢迎来到一个奇怪的 Minecraft 服务器
 
 理论上你可以使用1.8以上版本的客户端进入游戏，但为了你能够更好地体验游戏最新内容，我们推荐你使用最新版本进入游戏。
 
-服务器版本：[PaperSpigot](https://papermc.io/) 1.16.5 **无正版验证**
+服务器版本：[PaperSpigot](https://papermc.io/) 1.17.1 **无正版验证**
 
 ### JAVA版
 
 ```text
 play.toiletmc.net
 ```
-
-### 基岩版
-
-```text
-be.toiletmc.net:20441
-```
-
-{% hint style="danger" %}
-### **登陆基岩版前你必须拥有JAVA正版，并且通过正版认证。**
-
-在使用基岩版登陆时，会要求输入JAVA正版账号和密码，然后进行数据互通。
-{% endhint %}
 
 ## 请求支援
 
